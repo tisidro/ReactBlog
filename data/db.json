@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Just a Blog",
+      "body": "A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!",
+      "author": "Terri",
+      "id": 1
+    },
+    {
+      "title": "Another Blog",
+      "body": "More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!More text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!A whole lotta text!",
+      "author": "Tina",
+      "id": 2
+    }
+  ]
+}
